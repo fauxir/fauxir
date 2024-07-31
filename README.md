@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Adrian.</h1>
-<h3 align="center">Forward-thinking Aberdeen based Frontend React developer who is passionate about developing elegant and user-friendly web apps.</h3>
+<h3 align="center">•	Creative Frontend Developer with 2 years of eCommerce experience, specializing in NextJS, React, TypeScript, and JavaScript. Key projects include DigitalSix PWA and maintenance for Edinburgh Gin headless e-commerce solutions. Experienced with Prismic CMS, Shopify Liquid, GA4, and custom pipeline automation.</h3>
 
 <p align="left"> <a href="https://twitter.com/michael_adriant" target="blank"><img src="https://img.shields.io/twitter/follow/michael_adriant?logo=twitter&style=for-the-badge" alt="michael_adriant" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fauxir@gmail.com**
 
-- ⚡ Fun fact **Hardest part of programming is variable naming xD.**
+- ⚡ Fun fact **I once debugged code in my dreams and it actually worked the next day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
