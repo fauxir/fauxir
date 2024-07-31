@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **NextJS projects.**
 
-- 👨‍💻 All of my projects are available at [www.michaeladrian.tech](www.michaeladrian.tech)
+- 👨‍💻 All of my projects are available at [https://michael-adrian.vercel.app/](https://michael-adrian.vercel.app/)
 
 - 💬 Ask me about **React, NextJS.**
 
