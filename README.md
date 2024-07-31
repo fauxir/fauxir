@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/michael_adriant" target="blank"><img src="https://img.shields.io/twitter/follow/michael_adriant?logo=twitter&style=for-the-badge" alt="michael_adriant" /></a> </p>
 
-- 🌱 I’m currently learning **Python, React Native and SQL.**
+- 🌱 I’m currently learning **Python, GO, React Native and SQL.**
 
 - 👯 I’m looking to collaborate on **NextJS projects.**
 
