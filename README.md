@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Adrian.</h1>
 <br><br>
-<p align="left">Creative Frontend Developer with 2 years of eCommerce experience, specializing in NextJS, React, TypeScript, and JavaScript. Key projects include DigitalSix PWA and maintenance for Edinburgh Gin headless e-commerce solutions. Experienced with Prismic CMS, Shopify Liquid, GA4, and custom pipeline automation.<br><br><br>    🌱 I’m currently learning Python, GO, React Native and SQL.<br><br>    👯 I’m looking to collaborate on NextJS projects.<br><br>    👨‍💻 All of my projects are available at https://michael-adrian.vercel.app/<br><br>    💬 Ask me about React, NextJS.<br><br>    📫 How to reach me fauxir@gmail.com<br><br>    ⚡ Fun fact I once debugged code in my dreams and it actually worked the next day!</p>
+<p align="left">Creative Frontend Developer with 2 years of eCommerce experience, specializing in NextJS, React, TypeScript, and JavaScript. Key projects include DigitalSix PWA and maintenance for Edinburgh Gin headless e-commerce solutions. Experienced with Prismic CMS, Shopify Liquid, GA4, and custom pipeline automation.<br><br><br>    🌱 I’m currently learning Python, GO, React Native and SQL.<br><br>    👯 I’m looking to collaborate on NextJS projects.<br><br>    👨‍💻 All of my projects are available at https://michaeladrian.co.uk/<br><br>    💬 Ask me about React, NextJS.<br><br>    📫 How to reach me fauxir@gmail.com<br><br>    ⚡ Fun fact I once debugged code in my dreams and it actually worked the next day!</p>
 
 ###
 
